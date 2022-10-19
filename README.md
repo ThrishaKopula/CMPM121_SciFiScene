@@ -17,7 +17,7 @@ Plants,
 Light 1,
 Light 2,
 Shelves,
-Windows,
+Windows
 
 Outdoor:
 Spaceship,
@@ -27,4 +27,4 @@ Road,
 Road lights,
 Trees,
 Building,
-Floating islands,
+Floating islands
